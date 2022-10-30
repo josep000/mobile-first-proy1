@@ -1,0 +1,14 @@
+.right_side {
+    display: block;
+
+}
+
+.container__article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+}
+
+main {
+    max-width: 930px;
+}
